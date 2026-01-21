@@ -1,6 +1,6 @@
 # Harvard-CS50-2026-asgmt-1
 Dutch National Flag algorithm implemented and animated in Scratch
-This program runs an algorithm for the classic Dutch National Flag problem: given a series of colored dots or squares, rearrange them —within the same array of squares— according to the white, blue, and red colors of the Dutch flag.
+This program runs an algorithm for the classic Dutch National Flag problem: given a series of colored dots or squares, rearrange them —within the same array of squares— according to the red, white and blue colors of the Dutch flag.
 
 To run the program:
 1. Download the `.sb3` file
